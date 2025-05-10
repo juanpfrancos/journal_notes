@@ -1,1 +1,2 @@
-# journal_notes
+### journal_notes
+ welcome to my journal
