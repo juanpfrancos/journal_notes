@@ -1,6 +1,6 @@
 ---
 created: 2025-05-17T11:48:26-05:00
-modified: 2025-05-17T11:51:11-05:00
+modified: 2025-05-17T11:52:53-05:00
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Capitulo 7 Juan Pablo
 - [ ] Capitulo 8 Vanessa
 - [ ] Capitulo 9 Padre
+- [ ] Máximo un minuto
