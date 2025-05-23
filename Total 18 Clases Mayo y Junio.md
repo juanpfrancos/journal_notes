@@ -1,7 +1,6 @@
 ---
 created: 2025-05-13T01:05:42-05:00
-modified: 2025-05-22T23:32:07-05:00
-type: Checklist
+modified: 2025-05-22T23:59:45-05:00
 ---
 
 # Total 18 Clases Mayo y Junio
